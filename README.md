@@ -15,6 +15,8 @@ A JavaScript challenge at Scrimba. A Chrome Extension for grabbing URLs.
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ## Preview
+https://user-images.githubusercontent.com/107203586/185785801-1cd76576-a880-4484-a02b-dbf35ae5f709.mov
+
 
 ## Connect with me::
 
