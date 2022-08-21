@@ -1,21 +1,17 @@
 # Project Title
 
-Grab URLs.
+Chrome Extension: Grab URLs. 
 
 ## Description
 
-A JavaScript challenge at Scrimba. A Chrome Extension for grabbing URLs.
+A JavaScript challenge at Scrimba. A Chrome Extension for grabbing URLs.<br>
+<br>
+https://user-images.githubusercontent.com/107203586/185785801-1cd76576-a880-4484-a02b-dbf35ae5f709.mov
+
 
 ## Built with:
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-
-## Preview
-https://user-images.githubusercontent.com/107203586/185785801-1cd76576-a880-4484-a02b-dbf35ae5f709.mov
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 
 ## Connect with me::
