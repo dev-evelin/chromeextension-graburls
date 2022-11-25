@@ -1,10 +1,5 @@
-# Project Title
-
-Chrome Extension: Grab URLs. 
-
-## Description
-
-A JavaScript challenge at Scrimba. A Chrome Extension for grabbing URLs.<br>
+# Chrome Extension: Grab URLs. 
+Project from Scrimba where we built a Chrome Extension for grabbing URL's using Javascript.<br>
 <br>
 
 https://user-images.githubusercontent.com/107203586/185785963-a7350602-cae2-4355-8d43-1ba7dba30893.mov
